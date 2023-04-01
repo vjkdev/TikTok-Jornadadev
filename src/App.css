@@ -29,7 +29,7 @@ html {
 
 /* Esconde a scroll bar no internet explorer, edge e firefox */
 
-.app__videos::-webkit-scrollbar {
+.app__videos {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
